@@ -64,12 +64,6 @@ Run the Streamlit app locally by executing:
 
 streamlit run main.py  
 
-This will start a local server, usually accessible at:
-
-http://localhost:8501  
-
-Open this URL in your web browser to interact with the app.
-
 ---
 
 ## Usage
