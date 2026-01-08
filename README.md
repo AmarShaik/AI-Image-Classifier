@@ -85,8 +85,4 @@ gments
 
 - [TensorFlow](https://www.tensorflow.org/)  
 - [Streamlit](https://streamlit.io/)  
-- MobileNetV2 pretrained model on ImageNet dataset
-
----
-
-Feel free to reach out if you have questions or need help running the app!
+- MobileNetV2 pretrained model on ImageNet datas
